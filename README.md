@@ -1,1 +1,17 @@
-#EGData
+[
+  {
+    user_id:"001",
+    user_name:"a",
+    user_age:"10"
+  },
+  {
+    user_id:"001",
+    user_name:"a",
+    user_age:"10"
+  },
+  {
+    user_id:"001",
+    user_name:"a",
+    user_age:"10"
+  },
+]
